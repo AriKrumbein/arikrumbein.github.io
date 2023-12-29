@@ -1,5 +1,3 @@
-# Hi, I'm Ari. 
-
 This is my little site for sharing what's on my mind.
 
 I'm a software engineer working on Windows User Experiences.
